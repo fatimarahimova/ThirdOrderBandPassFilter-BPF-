@@ -1,2 +1,2 @@
-BLG 354E - Signals and Systems for Computer Engineering
+BLG 354E - Signals and Systems for Computer Engineering /
 Term Project 
